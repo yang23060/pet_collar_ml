@@ -1,0 +1,4 @@
+timestamp,bpm,median_ibi_ms,clean_ibi_count,measurement_duration_seconds,signal_quality,sleep_type
+2026-10-07 04:51:45.019576,69.1,868.5,36,41.38,good,night
+2026-10-07 04:55:39.005654,69.1,868.5,36,44,41.38,good,night
+2026-10-07T05:17:44,67.6,888.0,42,46,45.0,good,night
